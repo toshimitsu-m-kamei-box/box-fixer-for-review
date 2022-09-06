@@ -1,0 +1,12 @@
+{
+    "boxAppSettings": {
+      "clientID": "This is a dummy JWT file.",
+      "clientSecret": "The application is destroyed and nothing can be done with this configuration.",
+      "appAuth": {
+        "publicKeyID": "testkeyid",
+        "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQImuneQvFQ6k0CAggA\nMBQGCCqGSIb3DQMHBAhjhzg5qeCl/QSCBMhUKANvdgjnYOjz1+FDRbAvA32BsFpl\nrDy9oebaMu2g+nZPq5JVeYJaXGh6tn4j6fOsSZ+zS/u8egmhgmCYj40yGjf4c5B1\n+v/7VKqh5mcS1gvGcobYJ4S9Ou/RSpm/Ttjwcy8wiqaZeEZI2IZB4kyyze1SeSxS\n5B2mAP/ic1G4lPvVGpXmwKCHNSgWdW2sxd1RRXEltz92r5eSrIPaPCIWW4mEnqiv\nXPTxHcjDfJDUccwYsGFxl8YDPhekYs/EOSJOapW1tguf0SOUJCONuBy4QKtFqgaJ\norjO+eKKU23epEaRezmL9CqUrfTXy9z3yDbPpQu5gqRodmC05ihPByRD/HdmmCed\nzzTcTTB7FU069Rht8mfAFhwDTnesTV3AbbqAkcuYQm2gs/dE+ywSTuZqEcU9kWQp\nZc+hZTNjMbZMzCIM69hO1rI38k3rfx84vbRTmuh9MmlSZ4o4Sg1yNndLHG3uLWnS\nAn35JcpXLdDdzQXSY58IzMjTm9g4MeKo0uuo/JClbrIXl7RaKO+M8aSL3QgRqeek\nnobDq5m8Rx2DLDCNxqolZLqRTDspvyBu2QY/fd1ud1P/AP7umcGWWMoisbSX721b\nICurLRVx1nqNm1yXckg59hH9azQrFXfHFbWrFtL+L8zu8SXD15Ea2vJJ+reK51XH\nh1L8++kO4bnQibWUT/qoRLsXhOm9rGRvhY9NbjNetzdB6cH4+agYr1u/qGZO7itc\n8ZltSpiozV5Bm3+YgrWxNnK/MjN3fTmUbK2+nCb20RLKu1qSl6fGa+vP5uUl1HOv\n3+BKVKiDBhAEP4n+UqbCDq0cHkRCenrkxYeqnKDE8U8zZ/d1+Qx8q8ptNNKngBms\nL4fz6tStpfvWs9QEOLTdO1AgaaIgrf4MgvIpheOJLNsekXjSAP0ck13n6B9cCy7j\nuTOdElypYE32zeNIrRkMUazqsILKExr9fPl1JFfsgDwVzTpvCxZ7JJakbcwBhxWX\nBbrf+2ZfHK2P5GRmxVpnHIihjLkZ5KECxedqNEPEr01pV61ibI8vF75BAWnjNKa7\ncD1BkPjru1UAYvY3/RcWlbX20+RRNP28P3feVpYV5loL/F9NdSdmDTeL4L7rX6cD\nUO8vqMPj7Pr5WUa+w3JNYJMzbIpdAbm7SjCxKdbD+ha27kly/ypFS6Hqy8gER0yj\ny0Cr4661NdOLAx3dXw5Ti0gbzYBqnyZhNi7XFL0YDXsJ87Iy0HKfIoc7LUm3tDJA\ng7qZmfMhVhJRL6F0OrMOAn0TiJsvbT6HUL8pk6QrV6/PQ0YU5HilES9vZW6kZOTV\nOL868J3ndAvGfdeMsVtw47c5TDxCBmSDQn9C63LhDY/QAUP/hmOk8EYPKxT3Z+Ob\nqnU7UUaWFyzc9cl3BHIxBaxP3OaUkPmxMyorP7s74LhkOQohkXDHYMzJkBKVLENP\nJl+eLjK7fzDvG82+ltSXgFQVGFEDyeN8NCjO7JEV3Uas+7t/Lq595RspxhAoXRVU\nVm89VBDYkDiB5W0qhDVyXB2p8kSamr0SKAwqlxr2cYmX07mFQU0TY6BhcpQaNOHF\n4SM4mIw19A56rBvQFJhQU48w5G0XsiYAbA48xWna8XFQdYBWxYYHChvx03uBRgFz\n6U4=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+        "passphrase": "59b8c6352d19dc18650eebbb34cf215c"
+      }
+    },
+    "enterpriseID": "0"
+  }
